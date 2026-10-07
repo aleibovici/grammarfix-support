@@ -1,6 +1,6 @@
 # GrammarFix Privacy Policy
 
-Last updated: 3 October 2026
+Last updated: 8 October 2026
 
 GrammarFix fixes the grammar of text you select on your Mac. It has no accounts, no analytics, no advertising and no tracking. The developer does not collect, receive or store any of your data.
 
@@ -27,7 +27,7 @@ To read your selection and paste the fix, GrammarFix briefly uses the clipboard.
 
 ## Settings
 
-Your preferences (provider, model, shortcuts and extra instructions) are stored locally on your Mac.
+Your preferences (provider, model, shortcuts, extra instructions and the emoji option) are stored locally on your Mac.
 
 ## Children
 
