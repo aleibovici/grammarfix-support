@@ -1,6 +1,6 @@
 # GrammarFix Privacy Policy
 
-Last updated: 8 October 2026
+Last updated: 29 October 2026
 
 GrammarFix fixes the grammar of text you select on your Mac. It has no accounts, no analytics, no advertising and no tracking. The developer does not collect, receive or store any of your data.
 
@@ -11,7 +11,7 @@ What happens to the text depends on the provider you choose in Settings:
 - **Apple (on-device):** the text is corrected by Apple's on-device model and never leaves your Mac.
 - **OpenRouter, Claude (Anthropic) or OpenAI:** the text, along with any extra instructions you've written, is sent directly from your Mac to that provider over an encrypted connection, using your own API key. GrammarFix asks for your permission the first time it sends text to each provider. The provider handles the text under its own privacy policy. OpenRouter passes the text on to the company that runs the model you choose.
 
-GrammarFix does not keep a copy of your text. If a provider has no API key or a request fails, the Apple on-device model is used instead when it's available.
+GrammarFix does not save your text. So you can get back the original after a fix, your last 10 fixes are kept in memory on your Mac, under Recent Fixes in the menu. They are never written to disk or sent anywhere, and they are cleared when you quit GrammarFix or choose Clear Recent Fixes. If a provider has no API key or a request fails, the Apple on-device model is used instead when it's available.
 
 ## API keys
 
@@ -27,7 +27,7 @@ To read your selection and paste the fix, GrammarFix briefly uses the clipboard.
 
 ## Settings
 
-Your preferences (provider, model, shortcuts, extra instructions and the emoji option) are stored locally on your Mac.
+Your preferences (provider, model, shortcuts, language, extra instructions and the emoji option) are stored locally on your Mac.
 
 ## Children
 
