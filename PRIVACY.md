@@ -27,7 +27,7 @@ To read your selection and paste the fix, GrammarFix briefly uses the clipboard.
 
 ## Settings
 
-Your preferences (provider, model, shortcuts, language, extra instructions and the emoji option) are stored locally on your Mac.
+Your preferences (provider, model, shortcuts, language, extra instructions, per-app instructions and the emoji option) are stored locally on your Mac. With per-app instructions, only the instructions are sent with your text, never the app's name.
 
 ## Children
 
