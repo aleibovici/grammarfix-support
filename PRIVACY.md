@@ -1,6 +1,6 @@
 # GrammarFix Privacy Policy
 
-Last updated: 29 October 2026
+Last updated: 30 October 2026
 
 GrammarFix fixes the grammar of text you select on your Mac. It has no accounts, no analytics, no advertising and no tracking. The developer does not collect, receive or store any of your data.
 
