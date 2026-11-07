@@ -1,8 +1,10 @@
 # GrammarFix Privacy Policy
 
-Last updated: 7 November 2026
+Last updated: 8 November 2026
 
 GrammarFix fixes the grammar of text you select on your Mac. It has no accounts, no analytics, no advertising and no tracking. The developer does not collect, receive or store any of your data.
+
+GrammarFix is made by Andre Leibovici, an individual developer in New Zealand, who is responsible for this policy. You can reach the developer at support@grammarfixai.app.
 
 ## The text you fix
 
@@ -46,6 +48,14 @@ GrammarFix is not directed at children and collects no data from anyone.
 
 Any changes to this policy will be published in this file, with a new date at the top.
 
+## If you contact the developer
+
+The app sends the developer nothing. If you email support@grammarfixai.app or open an issue on GitHub, the developer receives what you write and your email address or GitHub name, and uses them only to answer you. Email to that address is forwarded by Cloudflare to the developer's own mailbox. GitHub issues are public and are handled by GitHub under its own privacy policy. Emails are deleted when they're no longer needed to help you.
+
+## Your rights
+
+If you live in the European Union, the United Kingdom or another country with similar privacy laws, you can ask to see, correct or delete any personal data the developer holds about you, which can only be what you sent yourself. Email support@grammarfixai.app. You can also complain to the data protection authority where you live.
+
 ## Contact
 
-Questions about this policy can be raised as an issue at https://github.com/aleibovici/grammarfix-support/issues.
+Email support@grammarfixai.app, or raise a question as an issue at https://github.com/aleibovici/grammarfix-support/issues.
