@@ -1,6 +1,6 @@
 # GrammarFix Privacy Policy
 
-Last updated: 8 November 2026
+Last updated: 18 November 2026
 
 GrammarFix fixes the grammar of text you select on your Mac. It has no accounts, no analytics, no advertising and no tracking. The developer does not collect, receive or store any of your data.
 
@@ -34,7 +34,13 @@ In the Mac App Store version, fixes made through the Services menu don't use the
 
 ## Settings
 
-Your preferences (the provider order, models, the custom server's address, shortcuts, language, how much to change, when to review changes, extra instructions, Words to keep, per-app instructions and the emoji option) are stored locally on your Mac, as are the last few requests you typed in Fix with Instructions, so they can be offered again. None of them are sent anywhere, except the instructions and Words to keep that go with your text as described above, and the custom server's address, which is where that text goes. With per-app instructions, only the instructions are sent with your text, never the app's name.
+Your preferences (the provider order, models, the custom server's address, shortcuts, language, how much to change, when to review changes, extra instructions, Words to keep, per-app and per-website instructions and the emoji option) are stored locally on your Mac, as are the last few requests you typed in Fix with Instructions, so they can be offered again. None of them are sent anywhere, except the instructions and Words to keep that go with your text as described above, and the custom server's address, which is where that text goes. With per-app and per-website instructions, only the instructions are sent with your text, never the name of the app or the website.
+
+## Websites in Safari
+
+In the Mac App Store version you can give a website in Safari its own instructions. To know which website you're writing on, GrammarFix includes a Safari extension called GrammarFix Websites. It is off until you turn it on in Safari's settings, and it sees only the websites you allow it on there. It never asks about other websites.
+
+For a website you've allowed, the extension tells GrammarFix its name, such as mail.google.com, when it's on Safari's front tab. It doesn't read the page, the full address or what you type. GrammarFix keeps only the latest name, on your Mac, to choose the instructions for a fix, and replaces it each time the front tab changes. No browsing history is kept, and the website's name is never sent to a provider or anywhere else. Turn the extension off in Safari at any time and fixes in Safari use Safari's instructions.
 
 ## This website
 
