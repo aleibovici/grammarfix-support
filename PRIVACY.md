@@ -1,6 +1,6 @@
 # GrammarFix Privacy Policy
 
-Last updated: 18 November 2026
+Last updated: 26 November 2026
 
 GrammarFix fixes the grammar of text you select on your Mac. It has no accounts, no analytics, no advertising and no tracking. The developer does not collect, receive or store any of your data.
 
@@ -36,11 +36,15 @@ In the Mac App Store version, fixes made through the Services menu don't use the
 
 Your preferences (the provider order, models, the custom server's address, shortcuts, language, how much to change, when to review changes, extra instructions, Words to keep, per-app and per-website instructions and the emoji option) are stored locally on your Mac, as are the last few requests you typed in Fix with Instructions, so they can be offered again. None of them are sent anywhere, except the instructions and Words to keep that go with your text as described above, and the custom server's address, which is where that text goes. With per-app and per-website instructions, only the instructions are sent with your text, never the name of the app or the website.
 
-## Websites in Safari
+## Websites in Safari and Chrome
 
 In the Mac App Store version you can give a website in Safari its own instructions. To know which website you're writing on, GrammarFix includes a Safari extension called GrammarFix Websites. It is off until you turn it on in Safari's settings, and it sees only the websites you allow it on there. It never asks about other websites.
 
 For a website you've allowed, the extension tells GrammarFix its name, such as mail.google.com, when it's on Safari's front tab. It doesn't read the page, the full address or what you type. GrammarFix keeps only the latest name, on your Mac, to choose the instructions for a fix, and replaces it each time the front tab changes. No browsing history is kept, and the website's name is never sent to a provider or anywhere else. Turn the extension off in Safari at any time and fixes in Safari use Safari's instructions.
+
+From GrammarFix 1.11, Chrome works the same way with the GrammarFix Websites extension for Chrome, which you add from the Chrome Web Store. It asks for no websites when you add it; you allow it on one website at a time from its button in Chrome's toolbar, and it tells GrammarFix about only those. When you click that button it shows the name of the website you're on, so that you can allow it; nothing about that website reaches GrammarFix until you do. It passes the website's name, such as mail.google.com, to a small helper inside GrammarFix that Chrome starts, which leaves it on your Mac for GrammarFix in the same way, with a made-up label for the Chrome profile it came from so that two profiles don't get mixed up. To let Chrome find that helper, Connect Chrome… in GrammarFix's settings adds one file to Chrome's folder, in the folder you choose. When the extension is turned off or removed, or Chrome quits, GrammarFix forgets the website and fixes in Chrome use Chrome's instructions. The extension can't be turned on in incognito windows, so there Chrome's instructions apply too.
+
+The extension for Chrome uses the website's name only for this, as the Chrome Web Store User Data Policy requires, including its Limited Use requirements. It is not sold, not passed to anyone else and not used for advertising.
 
 ## This website
 
